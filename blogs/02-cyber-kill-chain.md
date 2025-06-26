@@ -1,6 +1,6 @@
 # 🧠 How Hackers Plan Attacks Like Masterminds
 
-Short Description for the repo:
+Short Description for the blog:
 
 A simple and beginner-friendly blog explaining how hackers plan attacks step-by-step using the Cyber Kill Chain. Covers each stage with real tools, mindset tips, and practical examples for aspiring Red Teamers and cybersecurity learners.
 
